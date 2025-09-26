@@ -1,0 +1,2 @@
+Placeholder licence.
+Choisis plus tard MIT ou Apache-2.0 (exemples sur https://choosealicense.com/).

@@ -1,0 +1,1 @@
+# Jeu d'évaluation : requêtes + jugements humains (oracle). Anonymiser si nécessaire.

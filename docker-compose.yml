@@ -1,0 +1,4 @@
+# Placeholder docker-compose
+# Servira à lancer Postgres (pgvector), Redis et l’API FastAPI.
+version: "3.9"
+services: {}

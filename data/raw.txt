@@ -1,0 +1,1 @@
+# Données brutes (JSON, RSS, exports API). Ne pas commiter de données sensibles.
