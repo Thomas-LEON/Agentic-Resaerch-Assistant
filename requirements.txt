@@ -1,2 +1,2 @@
-# Dépendances Python (placeholder)
-# Exemple futur: fastapi, uvicorn, sqlalchemy, pgvector, sentence-transformers, pandas, jinja2, arxiv, feedparser, langgraph, redis, celery, llama-index, opentelemetry-...
+requests
+python-dotenv
