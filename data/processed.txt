@@ -1,1 +1,0 @@
-# Données dérivées : chunks, embeddings, scores. Dossier ignoré par .gitignore en prod.
